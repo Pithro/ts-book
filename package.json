@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Pithro/ts-book/issues"
   },
-  "homepage": "https://github.com/Pithro/ts-book#readme"
+  "homepage": "https://github.com/Pithro/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^3.2.3"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
